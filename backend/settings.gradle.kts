@@ -1,4 +1,4 @@
-rootProject.name = "daily-planner-backend"
+rootProject.name = "planner-backend"
 
 include(
     "planner-domain",
